@@ -15,7 +15,7 @@ class UIFunctions:
         if enable:
 
             # PARAMETROS PADROES DO FRAME DO MENU
-            width = self.editor_ui.frame_8.width()
+            width = self.interface_ui.frame_8.width()
             maxExtend = maxWidth
             standard = 70
 
